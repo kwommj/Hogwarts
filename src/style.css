@@ -180,11 +180,22 @@ body, button, a{
     border: 2px solid #fff;
     border-radius: 50%;
     background-color: #FFF;
-    background-image: url(../assets/1.png);
     background-size: cover;
     transform: translateX(-50%);
     margin-bottom: 37px;
     overflow: hidden;
+}
+#ravenclaw{
+    background-image: url(../assets/1.png);
+}
+#slytherin{
+    background-image: url(../assets/2.png);
+}
+#hufflepuff{
+    background-image: url(../assets/3.png);
+}
+#griffindor{
+    background-image: url(../assets/4.png);
 }
 
 .cont-card .card-result-name{
