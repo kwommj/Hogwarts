@@ -152,7 +152,7 @@ body, button, a{
     transition: 1.2s;
     width: 330px;
     padding: 40px 30px;
-    background: #F2994A;
+    background: #696764;
     color: #fff;
     text-align: center;
     font-weight: 700;
@@ -226,6 +226,7 @@ body, button, a{
 
 .link-return {
     display: block;
+    color:#FFF;
     text-decoration: none;
 }
 
@@ -234,7 +235,7 @@ body, button, a{
 }
 
 .cont-card.id-card-active .item-card:hover {
-    background: #F96167;
+    background: #000000;
 	transform: scale(1.1) rotateZ(3deg); /*살짝 기울이게 하면서 스케일 변경 */
 }
 
